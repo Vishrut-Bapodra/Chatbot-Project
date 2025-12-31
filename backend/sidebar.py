@@ -1,3 +1,5 @@
+#Sidebar.py
+
 import streamlit as st
 from backend.database import (
     get_all_chats,
