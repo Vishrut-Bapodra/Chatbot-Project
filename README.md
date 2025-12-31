@@ -30,7 +30,17 @@ This project provides an intuitive chat interface enabling users to interact wit
   <img width="1366" height="727" alt="Screenshot 2025-12-31 114200" src="https://github.com/user-attachments/assets/0adfcd75-3a86-4984-b7fe-5ebf74c39f67" />
 
 - **Chats
-  
+  <img width="1366" height="726" alt="Screenshot 2025-12-31 113946" src="https://github.com/user-attachments/assets/984bd11e-9459-479f-9cb5-2fb1471792e8" />
+
+- **Chat Features
+  <img width="1366" height="727" alt="Screenshot 2025-12-31 114026" src="https://github.com/user-attachments/assets/f36932e9-ece9-4a98-9f81-99de81500495" />
+
+- **Rename
+  <img width="1366" height="727" alt="Screenshot 2025-12-31 114107" src="https://github.com/user-attachments/assets/912ca937-3bb7-47a4-803f-7972be6affd6" />
+
+- **Delete
+  <img width="1366" height="726" alt="Screenshot 2025-12-31 114125" src="https://github.com/user-attachments/assets/ba4a9c8e-e86f-4b94-a998-96ce6756e273" />
+
 
 ---
 
