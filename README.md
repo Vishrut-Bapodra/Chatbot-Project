@@ -21,6 +21,19 @@ This project provides an intuitive chat interface enabling users to interact wit
 
 ---
 
+## 📸 Images
+
+- **Home-Page
+  <img width="1366" height="729" alt="Screenshot 2025-12-31 114142" src="https://github.com/user-attachments/assets/a8634480-de2e-4aa5-aaf4-9bb016aa0927" />
+
+- **Settings
+  <img width="1366" height="727" alt="Screenshot 2025-12-31 114200" src="https://github.com/user-attachments/assets/0adfcd75-3a86-4984-b7fe-5ebf74c39f67" />
+
+- **Chats
+  
+
+---
+
 ## 🛠️ Built With
 
 | Technology | Description |
