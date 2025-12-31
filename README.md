@@ -1,4 +1,4 @@
-<img width="1366" height="726" alt="Screenshot 2025-12-31 114125" src="https://github.com/user-attachments/assets/d5ca4f22-124d-4290-aa58-b9fa9cb5d1af" /># 🤖 Chatbot Project
+# 🤖 Chatbot Project
 
 A conversational AI chatbot built with **Streamlit** as the frontend UI and integrated with the **OpenRouter API** for large language model responses. It offers session management, message history stored in SQLite, and an interactive interface to chat with AI.
 
