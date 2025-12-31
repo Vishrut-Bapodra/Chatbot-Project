@@ -1,3 +1,9 @@
+import sys
+from pathlib import Path
+
+ROOT_DIR = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT_DIR))
+
 import streamlit as st
 from backend.settings import chatbot_settings
 from backend.chatbot_backend import get_chatbot_response
@@ -88,6 +94,8 @@ if "show_settings" not in st.session_state:
 
 if "model_choice" not in st.session_state:
     st.session_state.model_choice = "openai/gpt-oss-120b"
+
+st.title("💬 Chatbot")
 
 # --------------------------------------------------------------
 # Fallback after sidebar (handle active_chat == None)

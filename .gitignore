@@ -1,38 +1,27 @@
-# Ignore everything by default
-*
-
-# Allow only these folders
-!backend/
-!frontend/
-
-# Ensure gitignore itself is included
-!.gitignore
-
-# Ignore environment and secret files
-.env
-*.env
-textfiles/api_key.text
-textfiles/
-
-# Ignore database files
-*.db
-*.sqlite
-backend/*.db
-frontend/*.db
-
 # Python cache and artifacts
 __pycache__/
 *.pyc
 *.pyo
 
+# Environment and secret files
+.env
+*.env
+textfiles/
+textfiles/api_key.text
+
+# Database files
+*.db
+*.sqlite
+chatbot_memory.db
+
 # Logs
 *.log
 
-# Ignore results and other output folders
+# Results and uploads
 result/
 uploaded_files/
 
-# IDE and Editor settings
+# IDE / editor
 .vscode/
 .idea/
 .DS_Store

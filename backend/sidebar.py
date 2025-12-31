@@ -1,5 +1,5 @@
 import streamlit as st
-from database import (
+from backend.database import (
     get_all_chats,
     create_chat_session,
     load_chat_messages,
