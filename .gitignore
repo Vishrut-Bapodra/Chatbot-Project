@@ -20,6 +20,7 @@ chatbot_memory.db
 # Results and uploads
 result/
 uploaded_files/
+screenshots/
 
 # IDE / editor
 .vscode/
